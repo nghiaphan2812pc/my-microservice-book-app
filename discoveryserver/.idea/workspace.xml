@@ -1,23 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6a9492e-8d13-4b64-a39b-b43ac7d11acd" name="Default Changelist" comment="" />
+    <list default="true" id="c6a9492e-8d13-4b64-a39b-b43ac7d11acd" name="Default Changelist" comment="java.version discoveryserver">
+      <change afterPath="$PROJECT_DIR$/../bookservice/bookservice/src/main/java/com/nghiapd/bookservice/command/event/BookDeletedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookservice/bookservice/src/main/java/com/nghiapd/bookservice/command/event/BookUpdatedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookservice/bookservice/src/main/java/com/nghiapd/bookservice/query/controller/BookQueryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookservice/bookservice/src/main/java/com/nghiapd/bookservice/query/model/BookResponseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookservice/bookservice/src/main/java/com/nghiapd/bookservice/query/projection/BookProjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookservice/bookservice/src/main/java/com/nghiapd/bookservice/query/queries/GetAllBooksQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookservice/bookservice/src/main/java/com/nghiapd/bookservice/query/queries/GetBookQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookservice/bookservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../bookservice/bookservice/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discoveryserver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discoveryserver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2e4sohCVMLcoLHeKjFMu8c3ndT5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.DiscoveryserverApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/business/my-microservice-book-app/bookservice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="DiscoveryserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="discoveryserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nghiapd.discoveryserver.DiscoveryserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -28,10 +80,25 @@
       <option name="presentableId" value="Default" />
       <updated>1711175360163</updated>
       <workItem from="1711175361216" duration="10000" />
+      <workItem from="1712293343603" duration="763000" />
+      <workItem from="1712652844314" duration="2558000" />
     </task>
+    <task id="LOCAL-00001" summary="java.version discoveryserver">
+      <option name="closed" value="true" />
+      <created>1712655215083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712655215083</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java.version discoveryserver" />
+    <option name="LAST_COMMIT_MESSAGE" value="java.version discoveryserver" />
   </component>
 </project>
